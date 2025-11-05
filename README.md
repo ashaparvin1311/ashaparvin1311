@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @ashaparvin1311
-- 👀 I’m interested in App Developement, SCRUM and Agile Methodology...
-- 🌱 I’m currently learning Java, PL/SQL & AWS
-- 💞️ I’m looking to collaborate on New Techies and Experts.
-- 📫 How to reach me over LinkedIn..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Mad Programmer with short amnesia
+🎯 **Business Analyst | Ex-EdTech Consultant | SaaS & Data Enthusiast**
 
-<!---
-ashaparvin1311/ashaparvin1311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about turning insights into impact. I bring 6+ years of cross-domain experience in **EdTech, FinTech, and SaaS**, specializing in **data-driven decision-making**, **CRM management**, and **process optimization**.
+
+I love building efficient systems — from managing client success workflows to developing data models that simplify business operations. Currently exploring **business analytics**, **cloud-based solutions**, and **automation in Java/Python** to bridge the gap between technology and strategy.
+
+📊 Skills: Data Analysis • SQL • Excel/Sheets • Google Cloud • CRM Tools • Agile Methodology
+💡 Interests: Product Operations | EdTech Transformation | Business Intelligence | Process Automation
+🌐 “Learning never stops — especially when data tells the story.”
